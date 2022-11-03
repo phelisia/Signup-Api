@@ -1,4 +1,4 @@
- web: gunicorn  apisign.wsgi --log-file 
+ web: gunicorn  apisign.wsgi
  
 
  
